@@ -10,4 +10,5 @@
 [![My Skills](https://skillicons.dev/icons?i=react,flutter,figma,github,androidstudio,vscode)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonHaeJin&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwonHaeJin&layout=compact&langs_count=10" alt="Top Langs" />
 
